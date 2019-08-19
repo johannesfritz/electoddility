@@ -13,3 +13,7 @@ The probability of a `presidential candidate to win the presidency` is the condi
 
 
 To get the head-to-head probability of candidate X vs President Donald Trump, the main necessary assumption is the `average probability of a Republican winning the presidency given that s/he's nominated instead of Trump` (p(Repulican wins|Republican nominee != Trump). I asumme `30%` but could make arguments for other values below ~50%. All that does is shift around the Democrats' lines vertically, though.
+
+## tracking electability
+
+Interactive charts coming later this week.
