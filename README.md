@@ -1,5 +1,5 @@
 # electoddility
-p(X becomes president | 2020: X vs Trump)
+How electable is a candidate, then?
 
 ## backing out electability (= head-to-head odds for candidate X vs Trump)
 
