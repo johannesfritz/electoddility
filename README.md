@@ -1,3 +1,5 @@
+https://github.com/johannesfritz/electoddility/blob/master/pics/190819/3%20Biden%20%26%20Warren.png
+
 # electoddility
 How electable is a candidate, then?
 
